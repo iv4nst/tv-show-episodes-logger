@@ -1,1 +1,1 @@
-# tv-show-episode-logger
+# tv-show-episodes-logger
